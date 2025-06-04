@@ -1,67 +1,97 @@
 <h1 align="center">Hi 👋, I'm Mohan S G</h1>
-<h3 align="center">A Passionate MERN Stack Developer from India</h3>
+<h3 align="center">🚀 MERN Stack Developer | 💻 Passionate Coder | 🎯 Focused on Building Real-World Solutions</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohanSG&label=Profile%20views&color=0e75b6&style=flat" alt="mohanSG" />
+  <img src="https://komarev.com/ghpvc/?username=SGMohan&label=Profile%20views&color=0e75b6&style=flat" alt="SGMohan" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🔥 About Me
 
-- 🔭 I’m currently working on **building full-stack web applications using the MERN stack**
-- 🌱 I’m currently learning **Next.js and TypeScript**
-- 💬 Ask me about **React, Node.js, MongoDB, or Express**
+- 🎓 I'm a **B.E. graduate in Electronics and Communication Engineering**
+- 💻 I'm a **Full Stack Developer** specializing in **MERN (MongoDB, Express, React, Node.js)**
+- 🔭 Currently building and scaling **real-world projects with modern tech stacks**
+- 🧠 Always learning something new: Exploring **Next.js**, **TypeScript**, and **system design**
+- 💬 Talk to me about: **Frontend frameworks, REST APIs, MongoDB schemas, Authentication**
+- 🧩 I enjoy solving real-world problems, refactoring bad code, and writing clean, maintainable code
+- 🚀 Career Goal: Work on impactful products in a **tech-driven company** and grow as a **full-stack engineer**
 - 📫 Reach me at: **mohansg.dev@gmail.com**
-- ⚡ Fun fact: I love solving problems and building responsive UIs.
 
 ---
 
-### 🛠️ Tech Stack
+### ⚙️ My Skills
 
-#### 🚀 Frontend:
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+#### 🖥️ Frontend Development
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css)
 
-#### 🧠 Backend:
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-gray?style=flat-square&logo=express)
+#### 🧠 Backend & APIs
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
+![JWT](https://img.shields.io/badge/-JWT-black?style=flat-square&logo=JSON%20web%20tokens)
 
-#### 🗄️ Database:
-![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
+#### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 
-#### ⚒️ Tools:
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Postman](https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=postman)
-![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visual-studio-code)
+#### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+#### 📦 Currently Learning
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+
+---
+
+### 📌 Featured Projects
+
+Here are some awesome projects I've built 💯
+
+- 🎬 [**Movie Browsing App**](https://github.com/SGMohan/Movie-App)  
+  > Browse trending movies using OMDB API with light/dark theme toggle.
+
+- 🛒 [**Marvel E-Commerce Site**](https://github.com/SGMohan/marvel-store)  
+  > A sleek dark-themed online store built using MERN.
+
+- 🍽️ [**Restaurant Booking System**](https://github.com/SGMohan/restaurant-reservation)  
+  > Full-fledged system for restaurant table booking and admin control.
+
+- 🍳 [**Recipe CRUD App**](https://github.com/SGMohan/Recipes-CRUD)  
+  > Node.js + MongoDB project to create, read, update, and delete recipes.
+
+- 🧑‍💼 [**User Auth & Roles**](https://github.com/SGMohan/front-desk-backend)  
+  > Role-based access control with email notifications (Admin, Manager, Receptionist).
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohanSG&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohanSG&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SGMohan&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SGMohan&layout=compact&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SGMohan&theme=radical" />
 </p>
 
 ---
 
-### 📌 Featured Projects
+### 🌐 Let's Connect
 
-- 🛍️ [Marvel E-Commerce App](https://github.com/mohanSG/marvel-store)
-- 🍽️ [Restaurant Booking System](https://github.com/mohanSG/restaurant-reservation)
-- 📽️ [Movie Browsing App](https://github.com/mohanSG/movie-app)
-
----
-
-### 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/mohan-sg)](https://linkedin.com/in/mohan-sg)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohansg.dev@gmail.com)](mailto:mohansg.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mohan-sg)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:mohansg.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/SGMohan)
 
 ---
 
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i> – Cory House
+  <i>“Consistency is more important than perfection.”</i> 💯<br/>
+  <i>“Build. Break. Learn. Repeat.”</i> 🔁
 </p>
