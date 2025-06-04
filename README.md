@@ -12,11 +12,11 @@
 - 🎓 I'm a **B.E. graduate in Electronics and Communication Engineering**
 - 💻 I'm a **Full Stack Developer** specializing in **MERN (MongoDB, Express, React, Node.js)**
 - 🔭 Currently building and scaling **real-world projects with modern tech stacks**
-- 🧠 Always learning something new: Exploring **Next.js**, **TypeScript**, and **system design**
+- 🧠 Always learning something new: Exploring **Figma**, **UI design**, and **Responsive design**
 - 💬 Talk to me about: **Frontend frameworks, REST APIs, MongoDB schemas, Authentication**
 - 🧩 I enjoy solving real-world problems, refactoring bad code, and writing clean, maintainable code
 - 🚀 Career Goal: Work on impactful products in a **tech-driven company** and grow as a **full-stack engineer**
-- 📫 Reach me at: **mohansg.dev@gmail.com**
+- 📫 Reach me at: **sgmohan2003@gmail.com**
 
 ---
 
@@ -45,10 +45,10 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-#### 📦 Currently Learning
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+#### 🎨 Currently Exploring (UI/UX & Design)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![UI Design](https://img.shields.io/badge/-UI%2FUX%20Design-0e76a8?style=flat-square&logo=adobe&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/-Responsive%20Design-228B22?style=flat-square)
 
 ---
 
@@ -56,20 +56,21 @@
 
 Here are some awesome projects I've built 💯
 
-- 🎬 [**Movie Browsing App**](https://github.com/SGMohan/Movie-App)  
+- 🎬 [**Movie Browsing App**](https://github.com/SGMohan/Movie-App.git)  
   > Browse trending movies using OMDB API with light/dark theme toggle.
 
-- 🛒 [**Marvel E-Commerce Site**](https://github.com/SGMohan/marvel-store)  
-  > A sleek dark-themed online store built using MERN.
+- ✅ [**Todo App**](https://github.com/SGMohan/Todo-App.git)  
+  > A full-featured MERN-based Todo application to manage tasks with user authentication, priority filters, and responsive UI.
 
-- 🍽️ [**Restaurant Booking System**](https://github.com/SGMohan/restaurant-reservation)  
-  > Full-fledged system for restaurant table booking and admin control.
+- 🛒 [**Cart Page**](https://github.com/SGMohan/Cart-Page.git)  
+  > A responsive and modern cart page UI built with React and TailwindCSS, designed for seamless shopping experiences.
 
-- 🍳 [**Recipe CRUD App**](https://github.com/SGMohan/Recipes-CRUD)  
+- 🍳 [**Recipes App**](https://github.com/SGMohan/Recipes_App.git)  
   > Node.js + MongoDB project to create, read, update, and delete recipes.
 
-- 🧑‍💼 [**User Auth & Roles**](https://github.com/SGMohan/front-desk-backend)  
-  > Role-based access control with email notifications (Admin, Manager, Receptionist).
+- 🧑‍💼 [**Auth System**](https://github.com/SGMohan/Auth_System.git)  
+  > A secure authentication and role-based access control system with email notifications for Admin, Manager, and Receptionist roles using Node.js, Express, MongoDB, and JWT.
+
 
 ---
 
@@ -85,8 +86,8 @@ Here are some awesome projects I've built 💯
 
 ### 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mohan-sg)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:mohansg.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohan-s-g-70a182310)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:sgmohan2003@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/SGMohan)
 
 ---
