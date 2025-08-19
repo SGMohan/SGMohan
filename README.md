@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏼, I'm Mohan S G</h1>
+<h2 align="center">Hi 👋🏻, I'm Mohan S G</h2>
 <h3 align="center"> MERN Stack Developer | 💻 Passionate Coder | 🎯 Focused on Building Real-World Solutions</h3>
 
 ---
