@@ -1,13 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mohan S G</h1>
-<h3 align="center">🚀 MERN Stack Developer | 💻 Passionate Coder | 🎯 Focused on Building Real-World Solutions</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SGMohan&label=Profile%20views&color=0e75b6&style=flat" alt="SGMohan" />
-</p>
+<h1 align="center">Hi 👋🏼, I'm Mohan S G</h1>
+<h3 align="center"> MERN Stack Developer | 💻 Passionate Coder | 🎯 Focused on Building Real-World Solutions</h3>
 
 ---
 
-### 🔥 About Me
+### About Me
 
 - 🎓 I'm a **B.E. graduate in Electronics and Communication Engineering**
 - 💻 I'm a **Full Stack Developer** specializing in **MERN (MongoDB, Express, React, Node.js)**
