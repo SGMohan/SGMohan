@@ -33,7 +33,7 @@ I'm actively seeking opportunities to contribute to impactful products as a **Fu
 `Node.js` `Express.js` `RESTful APIs` `JWT Authentication` `WebSocket`
 
 **Databases**
-`MongoDB` `Mongoose ODM` `MySQL` `SQL`
+`MongoDB` `MySQL` `SQL`
 
 **Tools & Platforms**
 `Git` `GitHub` `Postman` `Netlify` `Render` `VS Code` `Figma`
@@ -55,7 +55,7 @@ I'm actively seeking opportunities to contribute to impactful products as a **Fu
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### [Restaurant Reservation & Review Platform](https://dinearea.netlify.app)
 > Full-stack MERN application for restaurant discovery and booking
@@ -91,12 +91,6 @@ I'm actively seeking opportunities to contribute to impactful products as a **Fu
 
 ---
 
-### [Todo App](https://github.com/SGMohan/Todo-App.git) · [Movie Browsing App](https://github.com/SGMohan/Movie-App.git) · [Recipes App](https://github.com/SGMohan/Recipes_App.git)
-
-Additional projects demonstrating full CRUD operations, third-party API integration (OMDB), user authentication, and responsive design with React and TailwindCSS.
-
----
-
 ## 📜 Certifications
 
 | Certification | Issuer | Year |
@@ -110,8 +104,8 @@ Additional projects demonstrating full CRUD operations, third-party API integrat
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SGMohan&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SGMohan&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=SGMohan&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SGMohan&layout=compact&theme=tokyonight&hide_border=true" height="160" /> -->
 </div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SGMohan&theme=tokyonight&hide_border=true" />
